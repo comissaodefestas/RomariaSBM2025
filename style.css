@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: beige;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.icon {
+  font-size: 80px;
+}
+
+.message {
+  font-size: 32px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 10px;
+}
